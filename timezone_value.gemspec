@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Rails value object for Timezones"
   spec.description = "Makes is easier to work with rails and storing timezones"
-  spec.homepage = "https://github.com/NEXL-LTS/nexl360/timezone_value-ruby"
+  spec.homepage = "https://github.com/NEXL-LTS/timezone_value-ruby"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["homepage_uri"] = spec.homepage
